@@ -39,7 +39,6 @@ A modern multi-brand cloud kitchen platform with real-time order tracking, custo
 - **Zustand** - State management
 - **Motion (Framer Motion)** - Animations
 - **Lucide React** - Icon library
-- **Axios** - HTTP client
 - **Recharts** - Data visualization
 
 ### Backend
