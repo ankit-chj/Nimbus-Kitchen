@@ -1,0 +1,26 @@
+[
+  {
+    "id": "kitchen-blr-01",
+    "name": "Nimbus Hub 01 - Koramangala",
+    "city": "Bengaluru",
+    "area": "Koramangala 4th Block",
+    "address": "742 80 Feet Road, Koramangala, Bengaluru, KA 560034",
+    "lat": 12.9352,
+    "lng": 77.6245,
+    "brandIds": ["brand-01", "brand-02", "brand-03", "brand-04", "brand-05"],
+    "openedYear": 2023,
+    "capacityOrdersPerHour": 180
+  },
+  {
+    "id": "kitchen-blr-02",
+    "name": "Nimbus Hub 02 - Indiranagar",
+    "city": "Bengaluru",
+    "area": "Indiranagar 100ft Rd",
+    "address": "1204 100 Feet Road, Indiranagar, Bengaluru, KA 560038",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "brandIds": ["brand-01", "brand-02", "brand-03"],
+    "openedYear": 2024,
+    "capacityOrdersPerHour": 150
+  }
+]

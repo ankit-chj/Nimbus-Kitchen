@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ORD-88213",
+    "brandId": "brand-01",
+    "brandName": "Spice Route",
+    "brandLogoUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=200&auto=format&fit=crop&q=80",
+    "kitchenId": "kitchen-blr-01",
+    "placedAt": "2026-08-12T08:45:00.000Z",
+    "items": [
+      {
+        "itemId": "item-001",
+        "name": "Butter Chicken Special",
+        "qty": 2,
+        "customizations": ["Medium (Classic Balance)", "Extra Garlic Naan"],
+        "unitPrice": 380,
+        "lineTotal": 760
+      },
+      {
+        "itemId": "item-004",
+        "name": "Butter Garlic Naan",
+        "qty": 2,
+        "customizations": [],
+        "unitPrice": 60,
+        "lineTotal": 120
+      }
+    ],
+    "subtotal": 880,
+    "deliveryFee": 29,
+    "discount": 100,
+    "tax": 44,
+    "total": 853,
+    "currentStatus": "out_for_delivery",
+    "statusTimeline": [
+      { "status": "placed", "at": "2026-08-12T08:45:00.000Z", "note": "Order received and confirmed by Koramangala Hub." },
+      { "status": "preparing", "at": "2026-08-12T08:47:00.000Z", "note": "Station 2 (Curry & Gravy) assigned." },
+      { "status": "cooking", "at": "2026-08-12T08:52:00.000Z", "note": "Clay tandoor roasting in progress." },
+      { "status": "packed", "at": "2026-08-12T09:02:00.000Z", "note": "Quality checked and packed in insulated thermal foil." },
+      { "status": "out_for_delivery", "at": "2026-08-12T09:06:00.000Z", "note": "Rider Ramesh (KA-01-EQ-9120) picked up your package." }
+    ],
+    "etaMinutes": 10,
+    "deliveryAddress": {
+      "type": "Home",
+      "street": "Flat 402, Sunshine Heights, 5th Cross Road",
+      "area": "Koramangala 4th Block",
+      "city": "Bengaluru",
+      "pincode": "560034"
+    },
+    "paymentMethod": "Google Pay / BHIM UPI",
+    "customerName": "Ankit Sharma",
+    "customerPhone": "+91 98765 43210"
+  },
+  {
+    "id": "ORD-88214",
+    "brandId": "brand-02",
+    "brandName": "BurgerCraft",
+    "brandLogoUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&auto=format&fit=crop&q=80",
+    "kitchenId": "kitchen-blr-01",
+    "placedAt": "2026-08-12T09:00:00.000Z",
+    "items": [
+      {
+        "itemId": "item-021",
+        "name": "Truffle Smash Cheeseburger",
+        "qty": 1,
+        "customizations": ["Classic Double Smash", "Crispy Bacon Strips"],
+        "unitPrice": 430,
+        "lineTotal": 430
+      },
+      {
+        "itemId": "item-023",
+        "name": "Loaded Cajun Crinkle Fries",
+        "qty": 1,
+        "customizations": [],
+        "unitPrice": 180,
+        "lineTotal": 180
+      }
+    ],
+    "subtotal": 610,
+    "deliveryFee": 29,
+    "discount": 50,
+    "tax": 30,
+    "total": 619,
+    "currentStatus": "preparing",
+    "statusTimeline": [
+      { "status": "placed", "at": "2026-08-12T09:00:00.000Z", "note": "Order assigned to Grill Station." },
+      { "status": "preparing", "at": "2026-08-12T09:03:00.000Z", "note": "Patties smashing on flat top grill." }
+    ],
+    "etaMinutes": 18,
+    "deliveryAddress": {
+      "type": "Home",
+      "street": "Flat 402, Sunshine Heights, 5th Cross Road",
+      "area": "Koramangala 4th Block",
+      "city": "Bengaluru",
+      "pincode": "560034"
+    },
+    "paymentMethod": "HDFC Bank Credit Card",
+    "customerName": "Ankit Sharma",
+    "customerPhone": "+91 98765 43210"
+  },
+  {
+    "id": "ORD-88190",
+    "brandId": "brand-03",
+    "brandName": "Bowlful & Co.",
+    "brandLogoUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=200&auto=format&fit=crop&q=80",
+    "kitchenId": "kitchen-blr-01",
+    "placedAt": "2026-08-11T13:15:00.000Z",
+    "items": [
+      {
+        "itemId": "item-031",
+        "name": "Avocado Chipotle Power Grain Bowl",
+        "qty": 1,
+        "customizations": ["Herb Grilled Tofu"],
+        "unitPrice": 400,
+        "lineTotal": 400
+      }
+    ],
+    "subtotal": 400,
+    "deliveryFee": 29,
+    "discount": 50,
+    "tax": 20,
+    "total": 399,
+    "currentStatus": "delivered",
+    "statusTimeline": [
+      { "status": "placed", "at": "2026-08-11T13:15:00.000Z" },
+      { "status": "preparing", "at": "2026-08-11T13:17:00.000Z" },
+      { "status": "cooking", "at": "2026-08-11T13:20:00.000Z" },
+      { "status": "packed", "at": "2026-08-11T13:28:00.000Z" },
+      { "status": "out_for_delivery", "at": "2026-08-11T13:30:00.000Z" },
+      { "status": "delivered", "at": "2026-08-11T13:42:00.000Z", "note": "Handed to customer." }
+    ],
+    "etaMinutes": 0,
+    "deliveryAddress": {
+      "type": "Work",
+      "street": "3rd Floor, Tech Park One",
+      "area": "Koramangala 1st Block",
+      "city": "Bengaluru",
+      "pincode": "560034"
+    },
+    "paymentMethod": "Google Pay / BHIM UPI",
+    "customerName": "Ankit Sharma",
+    "customerPhone": "+91 98765 43210"
+  }
+]

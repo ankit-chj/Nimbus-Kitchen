@@ -1,0 +1,10 @@
+[
+  {
+    "id": "usr-01",
+    "name": "Ankit Sharma",
+    "email": "ankitdoha111@gmail.com",
+    "phone": "+91 98765 43210",
+    "dietaryPreference": "all",
+    "notificationsEnabled": true
+  }
+]

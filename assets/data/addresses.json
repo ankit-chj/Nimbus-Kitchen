@@ -1,0 +1,22 @@
+[
+  {
+    "id": "addr-01",
+    "type": "Home",
+    "name": "Ankit Sharma",
+    "street": "Flat 402, Sunshine Heights, 5th Cross Road",
+    "area": "Koramangala 4th Block",
+    "city": "Bengaluru",
+    "pincode": "560034",
+    "isDefault": true
+  },
+  {
+    "id": "addr-02",
+    "type": "Work",
+    "name": "Ankit Sharma (Nimbus HQ)",
+    "street": "3rd Floor, Tech Park One, 80 Feet Main Rd",
+    "area": "Koramangala 1st Block",
+    "city": "Bengaluru",
+    "pincode": "560034",
+    "isDefault": false
+  }
+]

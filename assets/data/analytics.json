@@ -1,0 +1,32 @@
+{
+  "revenueToday": 142850,
+  "revenueGrowthPercent": 18.4,
+  "ordersToday": 348,
+  "avgOrderValue": 410.5,
+  "avgPrepTimeMinutes": 16.8,
+  "hourlyOrders": [
+    { "hour": "10:00", "orders": 12, "revenue": 4920 },
+    { "hour": "11:00", "orders": 24, "revenue": 9840 },
+    { "hour": "12:00", "orders": 58, "revenue": 23780 },
+    { "hour": "13:00", "orders": 82, "revenue": 33620 },
+    { "hour": "14:00", "orders": 42, "revenue": 17220 },
+    { "hour": "15:00", "orders": 18, "revenue": 7380 },
+    { "hour": "16:00", "orders": 22, "revenue": 9020 },
+    { "hour": "17:00", "orders": 31, "revenue": 12710 },
+    { "hour": "18:00", "orders": 59, "revenue": 24360 }
+  ],
+  "brandShare": [
+    { "brandName": "Spice Route", "percent": 38, "color": "#FF6B35" },
+    { "brandName": "BurgerCraft", "percent": 27, "color": "#7C6CF2" },
+    { "brandName": "Bowlful & Co.", "percent": 16, "color": "#10B981" },
+    { "brandName": "Dragon Wok", "percent": 12, "color": "#F59E0B" },
+    { "brandName": "SweetCloud", "percent": 7, "color": "#EC4899" }
+  ],
+  "topItems": [
+    { "name": "Butter Chicken Special", "brandName": "Spice Route", "count": 142, "revenue": 53960 },
+    { "name": "Truffle Smash Cheeseburger", "brandName": "BurgerCraft", "count": 98, "revenue": 35280 },
+    { "name": "Hyderabadi Dum Chicken Biryani", "brandName": "Spice Route", "count": 84, "revenue": 35280 },
+    { "name": "Avocado Chipotle Bowl", "brandName": "Bowlful & Co.", "count": 62, "revenue": 21080 },
+    { "name": "Belgian Chocolate Lava Cake", "brandName": "SweetCloud", "count": 55, "revenue": 12100 }
+  ]
+}

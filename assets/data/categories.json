@@ -1,0 +1,11 @@
+[
+  { "id": "cat-starters", "name": "Starters & Appetizers", "iconName": "Flame" },
+  { "id": "cat-mains", "name": "Main Courses", "iconName": "UtensilsCrossed" },
+  { "id": "cat-burgers", "name": "Craft Burgers", "iconName": "Ham" },
+  { "id": "cat-biryani", "name": "Biryani & Rice", "iconName": "Soup" },
+  { "id": "cat-breads", "name": "Tandoori Breads", "iconName": "Cookie" },
+  { "id": "cat-bowls", "name": "Power Bowls", "iconName": "Salad" },
+  { "id": "cat-sides", "name": "Sides & Fries", "iconName": "Pizza" },
+  { "id": "cat-desserts", "name": "Desserts & Sweets", "iconName": "Cake" },
+  { "id": "cat-beverages", "name": "Coolers & Shakes", "iconName": "CupSoda" }
+]

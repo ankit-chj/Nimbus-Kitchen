@@ -1,0 +1,47 @@
+[
+  {
+    "id": "st-01",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Tandoor & Charcoal Pit",
+    "description": "Clay oven roasting for breads, tikka starters, and slow-cooked marinades.",
+    "loadPercent": 84,
+    "activeOrderCount": 12,
+    "assignedStaffIds": ["stf-01", "stf-02"]
+  },
+  {
+    "id": "st-02",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Heavy Wok & Flame Station",
+    "description": "800°F wok burners for Dragon Wok noodles and Hakka stir-fries.",
+    "loadPercent": 65,
+    "activeOrderCount": 8,
+    "assignedStaffIds": ["stf-03"]
+  },
+  {
+    "id": "st-03",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Flat-Top Smash Grill",
+    "description": "High-output chrome grill for BurgerCraft smash patties and brioche toasts.",
+    "loadPercent": 92,
+    "activeOrderCount": 15,
+    "assignedStaffIds": ["stf-04", "stf-05"]
+  },
+  {
+    "id": "st-04",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Cold Prep & Power Bowls",
+    "description": "Chilled assembly line for Bowlful & Co greens, grain bowls, and dressings.",
+    "loadPercent": 42,
+    "activeOrderCount": 5,
+    "assignedStaffIds": ["stf-06"]
+  },
+  {
+    "id": "st-05",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Quality Packing & Rider Dispatch",
+    "description": "Final thermal seal, tamper check, and rider bag handover portal.",
+    "loadPercent": 78,
+    "activeOrderCount": 18,
+    "assignedStaffIds": ["stf-07", "stf-08"]
+  }
+]

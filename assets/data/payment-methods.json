@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pm-01",
+    "type": "upi",
+    "title": "Google Pay / BHIM UPI",
+    "details": "ankit@okicici",
+    "isDefault": true
+  },
+  {
+    "id": "pm-02",
+    "type": "card",
+    "title": "HDFC Bank Credit Card",
+    "details": "•••• •••• •••• 8812",
+    "isDefault": false
+  },
+  {
+    "id": "pm-03",
+    "type": "cod",
+    "title": "Cash on Delivery",
+    "details": "Pay cash/UPI to delivery rider at door",
+    "isDefault": false
+  }
+]

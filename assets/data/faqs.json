@@ -1,0 +1,26 @@
+[
+  {
+    "id": "faq-01",
+    "question": "What is Nimbus Kitchens?",
+    "answer": "Nimbus Kitchens operates multi-brand cloud kitchen hubs. Multiple distinct culinary brands cook inside a single high-tech facility, allowing you to combine curries, burgers, bowls, and desserts into one synchronized delivery.",
+    "category": "General"
+  },
+  {
+    "id": "faq-02",
+    "question": "Can I order from multiple brands in a single order?",
+    "answer": "Yes! Because all Nimbus brands in your area operate out of the same physical kitchen hub, your items are prepared in parallel and packed into a single temperature-insulated delivery bag.",
+    "category": "Ordering"
+  },
+  {
+    "id": "faq-03",
+    "question": "How do you ensure food arrives hot and crispy?",
+    "answer": "We use custom double-walled ventilated packaging designed specifically for delivery, along with real-time temperature-monitored dispatch stations.",
+    "category": "Quality"
+  },
+  {
+    "id": "faq-04",
+    "question": "Are pure vegetarian dishes cooked separately?",
+    "answer": "Absolutely. Brands like Bowlful & Co and our pure-veg sections use dedicated wok and tandoor stations with color-coded cookware to prevent cross-contamination.",
+    "category": "Hygiene & Prep"
+  }
+]

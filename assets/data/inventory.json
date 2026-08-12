@@ -1,0 +1,68 @@
+[
+  {
+    "id": "inv-01",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Boneless Chicken Thighs",
+    "category": "Meat & Poultry",
+    "currentStock": 42,
+    "unit": "kg",
+    "minThreshold": 30,
+    "status": "optimal",
+    "lastRestocked": "2026-08-12T05:30:00.000Z"
+  },
+  {
+    "id": "inv-02",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Heavy Dairy Amul Cream",
+    "category": "Dairy",
+    "currentStock": 11,
+    "unit": "Liters",
+    "minThreshold": 15,
+    "status": "low",
+    "lastRestocked": "2026-08-11T06:00:00.000Z"
+  },
+  {
+    "id": "inv-03",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Black Truffle Oil Concentrate",
+    "category": "Gourmet Oils",
+    "currentStock": 1.2,
+    "unit": "Liters",
+    "minThreshold": 3.0,
+    "status": "critical",
+    "lastRestocked": "2026-08-08T09:00:00.000Z"
+  },
+  {
+    "id": "inv-04",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Artisanal Brioche Burger Buns",
+    "category": "Bakery",
+    "currentStock": 180,
+    "unit": "Pcs",
+    "minThreshold": 100,
+    "status": "optimal",
+    "lastRestocked": "2026-08-12T06:00:00.000Z"
+  },
+  {
+    "id": "inv-05",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Organic Hass Avocados",
+    "category": "Produce",
+    "currentStock": 18,
+    "unit": "kg",
+    "minThreshold": 25,
+    "status": "low",
+    "lastRestocked": "2026-08-11T07:00:00.000Z"
+  },
+  {
+    "id": "inv-06",
+    "kitchenId": "kitchen-blr-01",
+    "name": "Belgian Dark Chocolate Callets 70%",
+    "category": "Confectionery",
+    "currentStock": 8.5,
+    "unit": "kg",
+    "minThreshold": 10,
+    "status": "low",
+    "lastRestocked": "2026-08-10T08:00:00.000Z"
+  }
+]

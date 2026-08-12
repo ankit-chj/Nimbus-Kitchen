@@ -1,0 +1,10 @@
+[
+  { "id": "stf-01", "name": "Chef Vikram Singh", "role": "Head Tandoor Master", "avatarUrl": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150&auto=format&fit=crop&q=80", "stationId": "st-01", "shift": "Morning (07:00 - 16:00)", "activeTasks": 6 },
+  { "id": "stf-02", "name": "Imran Khan", "role": "Assistant Tandoor Chef", "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80", "stationId": "st-01", "shift": "Morning (07:00 - 16:00)", "activeTasks": 6 },
+  { "id": "stf-03", "name": "Chef Lin Wei", "role": "Wok Master Lead", "avatarUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=150&auto=format&fit=crop&q=80", "stationId": "st-02", "shift": "General (11:00 - 20:00)", "activeTasks": 8 },
+  { "id": "stf-04", "name": "Marcus Vance", "role": "Burger Craft Line Lead", "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80", "stationId": "st-03", "shift": "Peak Evening (16:00 - 01:00)", "activeTasks": 8 },
+  { "id": "stf-05", "name": "Rohan Gupta", "role": "Grill Line Cook", "avatarUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=80", "stationId": "st-03", "shift": "Peak Evening (16:00 - 01:00)", "activeTasks": 7 },
+  { "id": "stf-06", "name": "Pooja Reddy", "role": "Cold Assembly Lead", "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80", "stationId": "st-04", "shift": "Morning (08:00 - 17:00)", "activeTasks": 5 },
+  { "id": "stf-07", "name": "Suresh Kumar", "role": "QA & Packing Dispatcher", "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&auto=format&fit=crop&q=80", "stationId": "st-05", "shift": "Full Day (10:00 - 19:00)", "activeTasks": 9 },
+  { "id": "stf-08", "name": "Deepak Roy", "role": "Rider Handover Captain", "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80", "stationId": "st-05", "shift": "Peak Evening (16:00 - 01:00)", "activeTasks": 9 }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "t1",
+    "author": "Ananya Sharma",
+    "location": "Koramangala, Bengaluru",
+    "rating": 5,
+    "comment": "Being able to order Butter Chicken from Spice Route AND a Truffle Burger from BurgerCraft in a SINGLE delivery bag is black magic! Arrived steaming hot in 22 minutes.",
+    "favoriteBrand": "Spice Route & BurgerCraft",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "t2",
+    "author": "Rohan Deshmukh",
+    "location": "Indiranagar, Bengaluru",
+    "rating": 5,
+    "comment": "The live order tracking page is so clean. You can actually see when your food leaves the wok station vs when it gets packed. Total gamechanger.",
+    "favoriteBrand": "Dragon Wok",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "t3",
+    "author": "Priya Nair",
+    "location": "HSR Layout, Bengaluru",
+    "rating": 5,
+    "comment": "Bowlful & Co. is my daily lunch default. Healthy grain bowls that actually taste rich and fresh. Glass packaging is super premium.",
+    "favoriteBrand": "Bowlful & Co.",
+    "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80"
+  }
+]

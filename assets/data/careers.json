@@ -1,0 +1,43 @@
+[
+  {
+    "id": "role-01",
+    "title": "Kitchen Hub Operations Manager",
+    "department": "Operations",
+    "location": "Koramangala, Bengaluru",
+    "type": "Full-Time",
+    "experience": "3-5 Years",
+    "description": "Lead daily kitchen operations across 5 virtual brands, optimizing station SLAs, food hygiene, and delivery dispatch metrics.",
+    "requirements": [
+      "Experience running high-volume QSR or cloud kitchen facilities",
+      "Proven track record with HACCP standards and food safety",
+      "Data-driven operational mindset"
+    ]
+  },
+  {
+    "id": "role-02",
+    "title": "Lead Tandoori & Mughlai Chef",
+    "department": "Culinary",
+    "location": "Koramangala, Bengaluru",
+    "type": "Full-Time",
+    "experience": "4+ Years",
+    "description": "Master chef responsible for Spice Route's signature tandoori marinades, slow-cooked gravy consistency, and prep efficiency.",
+    "requirements": [
+      "Expertise in high-heat clay oven tandoor cooking",
+      "Consistency in bulk curry prep and recipe adherence",
+      "Team leadership skills"
+    ]
+  },
+  {
+    "id": "role-03",
+    "title": "Dispatch & SLA Coordinator",
+    "department": "Logistics",
+    "location": "Indiranagar, Bengaluru",
+    "type": "Full-Time",
+    "experience": "1-2 Years",
+    "description": "Manage the final packing inspection and rider handover portal using the Nimbus Kitchen Ops Kanban system.",
+    "requirements": [
+      "Comfort with tablet/ops interface and order monitoring",
+      "High attention to detail for custom rider note verification"
+    ]
+  }
+]
